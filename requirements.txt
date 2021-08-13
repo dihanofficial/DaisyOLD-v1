@@ -1,0 +1,14 @@
+future
+emoji
+requests
+sqlalchemy
+python-telegram-bot
+psycopg2-binary
+feedparser
+pyowm==2.10.0
+googletrans
+wikipedia
+kbbi
+Pillow
+alphabet_detector
+urbandict

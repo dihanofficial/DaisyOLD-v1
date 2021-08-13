@@ -1,0 +1,28 @@
+*.pyc
+.idea/
+.gitconfig
+.project
+.pydevproject
+.directory
+.vscode
+
+# Remove this shit
+emilia/__pycache__
+emilia/modules/__pycache__
+emilia/modules/helper_funcs/__pycache__
+emilia/modules/sql/__pycache__
+
+# Also remove this too
+.bash_history
+.bash_logout
+.bashrc
+.cloud-locale-test.skip
+.profile
+.pgpass
+.python_history
+backupdb
+hourly_backupdb
+*-Emilia.backup
+
+# Remove some configs
+emilia/config.py
